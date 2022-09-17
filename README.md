@@ -6,6 +6,6 @@ data scientist.
 Joshua Wozny
 
 Contact:
-joshua.wozny@snhu.edu
-github.com/joshuawozny
-linkedin.com/in/joshua-wozny-bathnh
+* joshua.wozny@snhu.edu 
+* github.com/joshuawozny 
+* linkedin.com/in/joshua-wozny-bathnh
