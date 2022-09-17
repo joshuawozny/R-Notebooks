@@ -7,5 +7,5 @@ Joshua Wozny
 
 Contact:
 * joshua.wozny@snhu.edu 
-* github.com/joshuawozny 
-* linkedin.com/in/joshua-wozny-bathnh
+* https://github.com/joshuawozny 
+* https://www.linkedin.com/in/joshua-wozny-bathnh
